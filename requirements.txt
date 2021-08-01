@@ -29,7 +29,7 @@ cffi==1.14.5
 chardet==4.0.0
 click==7.1.2
 cloudpickle==1.6.0
-clyent==1.2.2
+clyent==1.2.1
 colorama==0.4.4
 comtypes==1.1.9
 configparser==5.0.2
